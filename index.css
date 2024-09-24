@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 .container {
@@ -78,11 +79,11 @@ aside {
   border-style: solid;
 }
 footer {
-  background-color: gold;
+  background-color: #1098ad;
   height: 50px;
   font-size: 25px;
   font-weight: bold;
-  padding-top: 25px;
+  padding: 20px 0;
   text-align: center;
   clear: both;
 }
